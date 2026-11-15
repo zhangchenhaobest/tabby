@@ -1,3 +1,29 @@
+# tabby
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A terminal for a more modern age
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+面向更现代时代的终端。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 [![](docs/readme.png)](https://tabby.sh)
 
 
